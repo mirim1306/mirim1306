@@ -64,15 +64,15 @@ Java와 Python으로 시작해서 지금은 React + TypeScript + Node.js로 웹 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mirim1306&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=mirim1306&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&cache_seconds=1800" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirim1306&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirim1306&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mirim1306&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mirim1306&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff)
 
 </div>
 
