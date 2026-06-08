@@ -64,9 +64,9 @@ Java와 Python으로 시작해서 지금은 React + TypeScript + Node.js로 웹 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mirim1306&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&cache_seconds=1800" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mirim1306&theme=github_dark" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirim1306&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=1800" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mirim1306&theme=github_dark" />
 
 </div>
 
